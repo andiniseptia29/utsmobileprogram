@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndiniApplication</string>
+    <string name="login_user">LOGIN USER</string>
+    <string name="inputkan_username">Inputkan Username</string>
+    <string name="inputkan_password">Inputkan Password</string>
+    <string name="login">LOGIN</string>
+</resources>
